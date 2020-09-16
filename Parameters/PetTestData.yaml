@@ -1,0 +1,9 @@
+row1:
+  name: doggie
+  photoUrls: https://mydogs.com
+  id: 1
+  category.id: 1
+  category.name: labra
+  tags.id: 1
+  tags.name: labra
+  status: available

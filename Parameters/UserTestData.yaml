@@ -1,0 +1,19 @@
+row1:
+  id: 1
+  username: userdataOne
+  firstName: User
+  lastName: Data
+  email: userdata01@yopmail.com
+  password: userdata1
+  phone: 9999999999
+  userStatus: 0
+  
+row2:
+  id: 2
+  username: userdataTwo
+  firstName: User
+  lastName: Data
+  email: userdata02@yopmail.com
+  password: userdata2
+  phone: 9999999999
+  userStatus: 0
